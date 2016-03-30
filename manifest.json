@@ -1,0 +1,22 @@
+{
+  "name": "GitHub Thumbs Upper",
+  "description": "add :+1: comment",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon-large.png"
+  },
+  "version": "1.0.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Thumbs Up"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "manifest_version": 2
+}

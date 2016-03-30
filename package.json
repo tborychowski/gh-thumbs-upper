@@ -1,0 +1,13 @@
+{
+  "name": "github-thumbs-upper",
+  "description": "add :+1: comment",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tborychowski/gh-thumbs-upper.git"
+  },
+  "author": "Tom",
+  "license": "MIT"
+}
